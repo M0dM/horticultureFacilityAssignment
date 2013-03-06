@@ -3,7 +3,7 @@ Horticulture Facility Assignment
 
 The git repository of our blender modelling project
 
-Project storage architecture : 
+Project storage architecture example : 
 
     *globalFile.blend
     *textures/
@@ -11,10 +11,10 @@ Project storage architecture :
         *texture2.jpg
         *texture3.png
     *blendFiles/
-        *LouiBlendFile.blend
-        *MarvisBlendFile.blend
-        *SherifBlendFile.blend
-        *BenoitBlendFile.blend
+        *subFile1.blend
+        *subFile2.blend
+        *subFile3.blend
+        *subFile4.blend
     *shots/
         *shot1.blend
         *shot2.blend
